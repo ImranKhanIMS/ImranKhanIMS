@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at GitHub
 
-💬 Ask me about Laravel, Php, Full Stack Development, Graphic's Designing, Article Rewriting and Data Structure
+💬 Ask me about Laravel, Php, Full Stack Development, Graphic's Designing, Article Rewriting and Data Structure & Algorithm
 
 📫 Reach me via Email
 
