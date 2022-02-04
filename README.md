@@ -1,16 +1,22 @@
-### Hi there 👋
+🌐 I currently represent IMSciences at DSC Web
 
-<!--
-**ImranKhanIMS/ImranKhanIMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my Fiverr plus working with 2 local software houses as a Laravel developer
 
-Here are some ideas to get you started:
+🌱 Lately, I'm learning new Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on Any Open Source Project
+
+👨‍💻 All of my projects are available at GitHub
+
+💬 Ask me about Laravel, Php, Full Stack Development, Graphic's Designing, Article Rewriting and Data Structure
+
+📫 Reach me via Email
+
+📄 Know about my recent experiences watch my resume
+
+⚡ Fun fact I love to speak publically
+
+😇 My Github Stats:
+🏆 My trophy stats so far:
+Connect with me:
+imrankhanims01@gmail.com
