@@ -1,6 +1,6 @@
 🌐 I currently represent IMSciences at Google Developer Student Club Web
 
-🔭 I’m currently working on my Fiverr plus working with 2 local software houses as a Laravel developer
+🔭 I’m currently working on my Fiverr as well as working with local clients and local software houses
 
 🌱 Lately, I'm learning new Technologies
 
