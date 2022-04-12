@@ -1,4 +1,4 @@
-🌐 I currently represent IMSciences at DSC Web
+🌐 I currently represent IMSciences at Google Developer Student Club Web
 
 🔭 I’m currently working on my Fiverr plus working with 2 local software houses as a Laravel developer
 
