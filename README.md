@@ -1,6 +1,6 @@
-🌐 I currently represent IMSciences at Google Developer Student Club Web
+🌐 I currently represent Google Developer Student Club (GDSC) as Co-Lead and Microsoft Learn Student Ambassader (MLSA) as Web Lead and IMComputing and Innovation Technology (IMCIS) as Communication Member at IMSciences
 
-🔭 I’m currently working on my Fiverr as well as working with local clients and local software houses
+🔭 I’m currently working on Fiverr as well as working with local clients and local software houses
 
 🌱 Lately, I'm learning new Technologies
 
@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at GitHub
 
-💬 Ask me about Laravel, Php, Full Stack Development, Graphic's Designing, Article Rewriting and Data Structure & Algorithm
+💬 Ask me about Laravel, Php, Full Stack Development, MERN Stack, Graphic's Designing, Article Rewriting and Data Structure & Algorithm
 
 📫 Reach me via Email
 
@@ -19,4 +19,4 @@
 😇 My Github Stats:
 🏆 My trophy stats so far:
 Connect with me:
-imrankhanims01@gmail.com
+imrankhanims01@gmail.com OR imran@tiestudio.org
