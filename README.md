@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a software engineering student at IMSciences Peshawar<br>🌐 I'm Beta Ambassador of MLSA and Co-Lead of GDSC at IMSciences<br>😇 I've done a Laravel Internship with BridgeSoft in my 3rd semester<br>🌱 I’m currently exploring the Blockchain (Dapp) Development<br>🤝 I’m looking for a Blockchain Internship to polish my skills<br>👯 I’m looking to collaborate on Any Open Source Project<br>⚡ Fun fact I love community work and public speaking<br>💬 Contact me at: bsse.203203167@imsciences.edu.pk
+🔭 I’m currently a maters student at Fast NUCES Islamabad<br>🌐 I'm a visiting Lecturer at TMUC and Beta Ambassador of MLSA<br>😇 I've recently done an MTO-ship with FF-Steel <br>🌱 I’m currently exploring the Blockchain (Dapp) Development<br>🤝 I’m looking for a Blockchain Internship to polish my skills<br>👯 I’m looking to collaborate on Any Open Source Project<br>⚡ Fun fact I love community work and public speaking<br>💬 Contact me at: bsse.203203167@imsciences.edu.pk
 
 
 ## 🌐 Socials:
