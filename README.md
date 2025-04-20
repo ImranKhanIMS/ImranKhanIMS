@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently a maters student at Fast NUCES Islamabad<br>🌐 I'm a visiting Lecturer at TMUC and Beta Ambassador of MLSA<br>😇 I've recently done an MTO-ship with FF-Steel <br>🌱 I’m currently exploring the Blockchain (Dapp) Development<br>🤝 I’m looking for a Blockchain Internship to polish my skills<br>👯 I’m looking to collaborate on Any Open Source Project<br>⚡ Fun fact I love community work and public speaking<br>💬 Contact me at: bsse.203203167@imsciences.edu.pk
+🔭 I’m currently pursuing a Masters degree from Fast NUCES Islamabad<br />
+🌐 I'm a visiting Lecturer at TMUC and  a Beta Ambassador of MLSA<br />
+😇 I've recently completed an MTO-ship with FF-Steel Peshawar<br />
+🌱 I’m currently exploring the Blockchain (Dapp) Development<br />
+🤝 I’m looking for a Blockchain Internship to polish my skills<br />
+👯 I’m looking to collaborate on Any Open Source Project<br />
+⚡ Fun fact I love community work and public speaking<br />
+💬 Contact me at: bsse.203203167@imsciences.edu.pk<br />
+![image](https://github.com/user-attachments/assets/32cbcdf8-843a-4a18-aff5-8352bab74ffc)<br />
+
 
 
 ## 🌐 Socials:
